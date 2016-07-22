@@ -1,0 +1,56 @@
+### Week 1 Notes ###
+
+#pwd: print working directory or show current location
+#ls: list current directory
+#man: list manual of where you are
+#cd: change directory, add ~/ with your file destination to go direct
+#mkdir: creates new directory/folder
+#touch: command to create file
+#echo: to append text into designated file. For example echo "Hello" >> my.file.txt
+#cat: read file
+#>>: double carrot means writing into
+#>: single carrot means to overwrite
+#cp: copy from one to another. If destination file doesn't exist
+# ..: double dots is to go back one level
+# ==: double equal is the equality checker
+# =: single equal sign is used for assignments
+# " ": to put in strings
+
+
+#working with numbers:
+
+#15/5 = 3 in integer form
+#15/2 = 7.5 in float form
+#15//2 = 7 in integer form
+#14 % 4 will return remainder
+# **: is squaring a number
+# Careful with floats. They may have rounding errors that can cause things to not equal
+
+# \: used to go to next line without taking any action
+# converting object type:  f= str(98.6) = '98.6'
+# \n: starts another line in the output
+# \t: tabbed space where this is put
+# \": to actually put a quotation mark in a string
+
+#strings
+
+# s = 'this is a string'
+# s = "this is a string"
+#s = """this is a string
+... but with a skip"""
+# \: to not skip lines when ... is there
+#\n: let's you skip lines
+#\t: let's you tab
+#\": let's you put in quotation mark in a string
+#+: lets you concactinate 2 strings
+#*: let's you create a string with 3x if it's *3
+#[]: Denotes portion of the string to print if S="Absolute", then print(S[2]) = s
+# Or print(s[1:-1]) = bsolut
+# print(S[1:6:2]) = print from 1 to 6 and take every other character
+#s.UPPER(): make all string uppercase, lowercase = lower
+#name = input("Enter your name: ")
+
+
+
+
+
